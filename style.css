@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+body main img{
+    width: 15vw;
+}
+body main div p{
+    margin-top: 4vh;
+}
